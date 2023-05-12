@@ -10,13 +10,13 @@ Celui-ci se défend contre ses ennemis, les terribles mutants, en envoyant des v
 
 ![Visuel 1](Nirwen/Visuel/GamePlay1.png)
 
-![Visuel 2](](Nirwen/Visuel/GamePlay2.png)
+![Visuel 2](Nirwen/Visuel/GamePlay2.png)
 
-![Visuel 3](](Nirwen/Visuel/GamePlay3.png)
+![Visuel 3](Nirwen/Visuel/GamePlay3.png)
 
 # Ennemis 
 
-![Mutant](](Nirwen/Visuel/Mutant.PNG)
+![Mutant](Nirwen/Visuel/Mutant.PNG)
 
 Les seuls êtres encore aptes à affronter Ori sont des mutants : des créatures dont les nombreuses altérations ont réduit leur stratégie d'attaque à seulement entrer en collision avec ses opposants. Les mutants sont des êtres terriblement territoriaux : bien que tolérant la présence d'autres mutants, ceux-ci refuseront catégoriquement de se s'éloigner de la salle qu'ils se sont attribués. Certains disent qu'ils auraient simplement une phobie des portes.
 
@@ -26,7 +26,7 @@ Le labyrinthe lui-même est de taille variable : entre 5 et 10 salles.
 
 # Ori 
 
-![Ori : votre personnage](](Nirwen/Visuel/Ori.PNG)
+![Ori : votre personnage](Nirwen/Visuel/Ori.PNG)
 
 Ori est capable d'envoyer une salve de 5 pics de glace à chaque seconde
 Il est également capable d'utiliser un champ de force afin de mettre à distance ses adversaires. Cependant, celui se recharge plus lentement.
@@ -35,9 +35,9 @@ Ori est incapable de survivre au-delà de 10 coups reçus. Après quoi, seul une
 
 # Contrôle
 
-![ZQSD](](Nirwen/Visuel/zqsd.jpg)
+![ZQSD](Nirwen/Visuel/zqsd.jpg)
 
-![Flèches directionnelles](](Nirwen/Visuel/arrow-keys.jpg)
+![Flèches directionnelles](Nirwen/Visuel/arrow-keys.jpg)
 
 Déplacer Ori : utilisez les flèches directionnelles ou les touches ZQSD pour faire avancer, reculer ou orienter Ori
 Sortilèges : 
