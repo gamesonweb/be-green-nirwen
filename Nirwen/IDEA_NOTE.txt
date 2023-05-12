@@ -1,0 +1,31 @@
+TODO :
+
+- Générer aléatoirment all --> sort / salle / mob
+- Trésor room (2 catégorie, unique object / multi object), shop, boss
+
+
+Liste mob ~= 10 (dont 1/3 remix)
+
+Mob --> drop (vie / argent / maybe )
+Coffre caché --> bonus
+Boss drop key
+
+Mob drop graines --> seed 
+
+Sort ~= 10 différentes --> 5 de bases de dispo / 1 à la fois ==> 3 à la fois
+
+Cadavre --> tombe --> disparition
+
+ Minimap ==>  clean ou pas, acheter ou pas
+
+==> pas de retour en arrière entre les leveles
+
+Attack sort =
+- cone -> stone =>
+- projectile de vent -> knokback+++
+- forceshield de vent -> (all dégagéer)
+- boa constrictor liannes
+- dégat pied par des ronces
+- chaine nebulaire en eau = reppousse + mini stone
+--> all knokback
+

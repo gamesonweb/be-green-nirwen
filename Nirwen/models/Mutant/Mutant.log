@@ -1,0 +1,76 @@
+Exporter version: 3.3.1, Blender version: 3.4.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Lucas\Documents\Fac\M1_Info\S2\3DGamesWeb\Nirwen\models\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:HeadTop_End, index:  6
+		processing begun of bone:  mixamorig:LeftShoulder, index:  7
+		processing begun of bone:  mixamorig:LeftArm, index:  8
+		processing begun of bone:  mixamorig:LeftForeArm, index:  9
+		processing begun of bone:  mixamorig:LeftHand, index:  10
+		processing begun of bone:  mixamorig:RightShoulder, index:  11
+		processing begun of bone:  mixamorig:RightArm, index:  12
+		processing begun of bone:  mixamorig:RightForeArm, index:  13
+		processing begun of bone:  mixamorig:RightHand, index:  14
+		processing begun of bone:  mixamorig:RightHandIndex1, index:  15
+		processing begun of bone:  mixamorig:RightHandIndex2, index:  16
+		processing begun of bone:  mixamorig:RightHandIndex3, index:  17
+		processing begun of bone:  mixamorig:RightHandIndex4, index:  18
+		processing begun of bone:  mixamorig:RightHandPinky1, index:  19
+		processing begun of bone:  mixamorig:RightHandPinky2, index:  20
+		processing begun of bone:  mixamorig:RightHandPinky3, index:  21
+		processing begun of bone:  mixamorig:RightHandPinky4, index:  22
+		processing begun of bone:  mixamorig:RightHandThumb1, index:  23
+		processing begun of bone:  mixamorig:RightHandThumb2, index:  24
+		processing begun of bone:  mixamorig:RightHandThumb3, index:  25
+		processing begun of bone:  mixamorig:RightHandThumb4, index:  26
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  27
+		processing begun of bone:  mixamorig:LeftLeg, index:  28
+		processing begun of bone:  mixamorig:LeftFoot, index:  29
+		processing begun of bone:  mixamorig:LeftToeBase, index:  30
+		processing begun of bone:  mixamorig:LeftToe_End, index:  31
+		processing begun of bone:  mixamorig:RightUpLeg, index:  32
+		processing begun of bone:  mixamorig:RightLeg, index:  33
+		processing begun of bone:  mixamorig:RightFoot, index:  34
+		processing begun of bone:  mixamorig:RightToeBase, index:  35
+		processing begun of bone:  mixamorig:RightToe_End, index:  36
+		processing action Armature|mixamo.com|Layer0:  in[1 - 81], out[0 - 81]
+	processing begun of mesh:  MutantMesh
+		processing begun of material:  mutant_M
+			processing texture Mutant_normal
+			processing texture Mutant_diffuse
+		Custom split normals with tangents being used
+		num positions      :  8709
+		num normals        :  8709
+		num tangents       :  34836
+		num uvs            :  17418
+		num uvs2           :  17418
+		num colors         :  0
+		num triangles      :  11271
+		Skeleton stats:  
+			Total Influencers:  16575
+			Avg # of influencers per vertex:  1.9032
+			Highest # of influencers observed:  4, num vertices with this:  803
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  34836
+========= Writing of JSON file started =========
+	writing mesh:  MutantMesh
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 12.318 secs

@@ -1,0 +1,59 @@
+Exporter version: 3.3.1, Blender version: 3.4.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\yassi\Desktop\Cours\BabyJs\Nirwen\ori_model\model_prin\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Corps, index:  0
+		processing begun of bone:  Bras_Gauche, index:  1
+		processing begun of bone:  Bone.002, index:  2
+		processing begun of bone:  Bone.001, index:  3
+		processing begun of bone:  Bone.003, index:  4
+		processing begun of bone:  Bone.004, index:  5
+		processing begun of bone:  Bras_Droit, index:  6
+		processing begun of bone:  Bone.006, index:  7
+		processing begun of bone:  Bone.007, index:  8
+		processing begun of bone:  Bone.008, index:  9
+		processing begun of bone:  Bone.009, index:  10
+		processing begun of bone:  Corps.001, index:  11
+		processing begun of bone:  Corps.002, index:  12
+		processing begun of bone:  Jambe_Gauche, index:  13
+		processing begun of bone:  Jambe_Gauche.004, index:  14
+		processing begun of bone:  Jambe_Gauche.003, index:  15
+		processing begun of bone:  Jambe_Gauche.002, index:  16
+		processing begun of bone:  Jambe_Droite, index:  17
+		processing begun of bone:  Jambe_Gauche.007, index:  18
+		processing begun of bone:  Jambe_Gauche.006, index:  19
+		processing begun of bone:  Jambe_Gauche.005, index:  20
+		processing begun of bone:  Queue, index:  21
+		processing begun of bone:  Jambe_Gauche.009, index:  22
+		processing begun of bone:  Jambe_Gauche.008, index:  23
+	processing begun of mesh:  Ori
+		processing begun of material:  lambert2SG
+			processing texture Ori_Base_Color
+		Custom split normals with tangents being used
+		num positions      :  51147
+		num normals        :  51147
+		num tangents       :  204588
+		num uvs            :  102294
+		num uvs2           :  0
+		num colors         :  204588
+		num triangles      :  17136
+		Skeleton stats:  
+			Total Influencers:  73443
+			Avg # of influencers per vertex:  1.4359
+			Highest # of influencers observed:  6, num vertices with this:  67
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  409176
+	Mesh: Ori has un-applied transformations.  This will never work for a mesh with an armature.  Export cancelled
+========= end of processing =========
+elapsed time:  0 min, 2.7475 secs
