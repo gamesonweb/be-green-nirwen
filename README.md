@@ -2,6 +2,7 @@
 ## Lucas LYON, Mohamed MAHJOUB
 
 Thème : *Be green*
+[Lien du jeu](https://raysharo.github.io/Nirwen/)
 
 # Description :
 Nirwen est un Rogue Like en vue isométrique suivante, créer avec BabylonJS à l'occasion du concours *Games On Web 2023*
